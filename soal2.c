@@ -11,7 +11,7 @@ int main() {
     printf("Masukkan pilihan Anda (1-3): ");
     scanf("%d, &jawaban);
     
-    if (jawaban == 3) {
+    if (jawaban = 3) {
         printf("Benar! Lanjut ke pertanyaan berikutnya.\n");
         printf("Pertanyaan 2: Apa ibu kota Jepang?\n");
         printf("1. Beijing\n2. Tokyo\n3. Seoul\n");
@@ -21,7 +21,7 @@ int main() {
         if (jawaban == 2) {
             printf("Benar! Lanjut ke pertanyaan berikutnya.\n");
             printf("Pertanyaan 3: Berapa hasil dari 12 / 4?\n");
-            printf("1. 2\n2. 3\n3. 4\n");
+            printf("1. 2\n2. 3\n3. 4\n")
             printf("Masukkan pilihan Anda (1-3): ");
             scanf("%d, &jawaban);
             
