@@ -13,7 +13,7 @@ int main() {
 
     luas = 0.5 * alas * tinggi;
 
-    printf("Luas segitiga adalah: %.2f\n, luas");
+    printf("Luas segitiga adalah: %.2f\n", luas);
     
-    0;
+    return 0;
 }
