@@ -1,4 +1,5 @@
 #include "antrian.h"
+#include "stdio.h"
 
 void Antrian::play() {
 	this->antrian_lagu[indeks_lagu_sekarang].play();

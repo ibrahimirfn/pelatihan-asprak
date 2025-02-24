@@ -1,5 +1,6 @@
 #include <vector>
 #ifndef ANTRIAN_H
+#define ANTRIAN_H
 #include "lagu.h"
 #include <iostream>
 

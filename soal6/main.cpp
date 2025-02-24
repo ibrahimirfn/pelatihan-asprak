@@ -1,4 +1,5 @@
 #include "antrian.h"
+#include "stdio.h"
 
 int main () {
 	Lagu lagu1 = Lagu("Don't Stop Me Now", "Queen", "Jazz", 3, 39);

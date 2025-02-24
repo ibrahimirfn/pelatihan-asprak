@@ -1,4 +1,5 @@
 #include "lagu.h"
+#include "stdio.h"
 
 Lagu::Lagu(std::string judul, std::string penyanyi, std::string album, int durasi_menit, int durasi_detik) {
 	this->penyanyi = penyanyi;
