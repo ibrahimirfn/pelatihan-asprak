@@ -7,7 +7,7 @@
 class Antrian {
 private:
 	std::vector<Lagu> antrian_lagu;
-	int indeks_lagu_sekarang;
+	int indeks_lagu_sekarang = 0;
 public:
 	void tambahLagu(Lagu lagu_baru);
 	void next();

@@ -8,5 +8,7 @@ int main () {
 	antrian.tambahLagu(lagu1);
 	antrian.tambahLagu(lagu2);
 	antrian.play();
+	antrian.next();
+	antrian.prev();
 	return 0;
 }
