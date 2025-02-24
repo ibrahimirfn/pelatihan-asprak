@@ -1,3 +1,4 @@
+#include "lagu.h"
 #include "antrian.h"
 #include "stdio.h"
 

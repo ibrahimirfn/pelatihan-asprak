@@ -2,6 +2,7 @@
 #include <iostream>
 #ifndef LAGU_H
 #define LAGU_H
+#include "stdio.h"
 
 class Lagu {
 private:
